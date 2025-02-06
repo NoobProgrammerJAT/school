@@ -1,0 +1,5 @@
+DECLARE myArr : ARRAY [0:9] OF INTEGER
+
+FOR Index <- 0 TO 9 STEP 1
+    OUTPUT myArr[Index]
+NEXT Index

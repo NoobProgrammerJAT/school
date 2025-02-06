@@ -1,0 +1,4 @@
+DECLARE myArr : ARRAY [0:9] OF INTEGER
+DECLARE serach, index, mid, high, low : INTEGER
+
+mid = 

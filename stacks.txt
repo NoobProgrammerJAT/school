@@ -1,0 +1,8 @@
+#STACK - LIFO
+
+DECLARE StackArr : ARRAY [0:9] OF INTEGER
+DECLARE Basepointer, Stackful, Toppointer : INTEGER 
+
+Basepointer <- 0
+Toppointer <- -1
+Stackful <- 9

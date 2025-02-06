@@ -1,0 +1,8 @@
+DECLARE data, pointer : ARRAY [1 : 10] OF INTEGER
+DECLARE heap, start: INTEGER
+heap <- 0 
+start <- -1
+FOR j <- 0 TO 9
+    FOR i <- 1 TO 9
+        pointer 
+    pointer[10] <- -1
